@@ -18,9 +18,11 @@ json:
     email: zack@apraxed.com
   
   profiles:
+    about me: https://gist.github.com/Apraxed/ae10c75e149f4adcfa483451472a9d3b
     github: https://github.com/apraxed
     twitter: https://twitter.com/aprax3d
     discord: https://discord.gg/dqEp6a4WcY
+    roblox: https://www.roblox.com/users/191641041/profile
 
 exclude:
   - LICENSE
