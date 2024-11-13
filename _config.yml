@@ -8,20 +8,21 @@ url: https://www.apraxed.com
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Zack P
+  name: Zack 
   description:
     - Stupid idiot
     - Student
     - Really cool guy
   contact:
-    phone: +1 510 761 6457‬
-    email: zack@apraxed.com
+    phone: +1 510 761 6457
+    email: aprax3d@gmail.com
   
   profiles:
     about me: https://gist.github.com/Apraxed/ae10c75e149f4adcfa483451472a9d3b
     github: https://github.com/apraxed
-    twitter: https://twitter.com/aprax3d
-    discord: https://discord.gg/dqEp6a4WcY
+    bluesky: https://bsky.app/profile/apraxed.bsky.social
+    twitter: https://twitter.com/aprax3d (no longer used)
+    discord: https://discord.com/users/441032877992574986
     roblox: https://www.roblox.com/users/191641041/profile
 
 exclude:
